@@ -1,0 +1,6 @@
+kivy
+kivy-garden
+pymodbustcp
+matplotlib
+numpy
+tabulate
